@@ -1,1 +1,3 @@
-
+light on/off -> https://www.tinkercad.com/things/lh1VeTTvym1-experiment-1?sharecode=0g6DtJ7qShIYIvZsGlMRlqyvpMr-qj15DiVmZoYH6K0 
+ultrasonic distance -> https://www.tinkercad.com/things/1FXkaJXTpKr-experiment-2?sharecode=Hq7Lfo975_f-plyEgmQBk-nN3-mj0E78q2Sf6O-20SA
+pir/ ldr ->  https://www.tinkercad.com/things/5V1QhdAwkUL-experiment-3?sharecode=oHcH4GgKR_hyROYYY-dxNR0XJmiiGIrpj0u-8ABZhvI
